@@ -1,6 +1,6 @@
 # How-to-Use-ZKSync
 ## Beneficios
-1. [General Info](#general-info)
+1. [Reduccion tarifas de red](#Reduccion-tarifas-de-red)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
